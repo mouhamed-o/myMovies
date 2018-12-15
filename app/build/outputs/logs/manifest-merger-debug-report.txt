@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.databinding:databinding-adapters:3.2.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.2.1.aar/d0c699575670058bd6b309010436aba4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.2.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.2.1.aar/bfa403abe00c2a38fab2413e4c680fc8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/14cdb32cc439f89d6f6da7873f962c06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/32b18b6e9ac2d95a9247d70ba33a16b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/paging-runtime-2.0.0.aar/70bdafdf8c645655d6112210b5e9af6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/ab1d34e39465383066fa22a1a22fe35d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/093875dc726a9339291928f1cb43dc45/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/a41867bc46954be1e7ab2172ff3cc7d8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/20ab2aba943f1820ec4c67b3d590788f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/80bd20c68c2ef7d5956c5e3747ee477c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/802cd3bdf8e43ae32e4e2e0c9505dc04/AndroidManifest.xml:2:1-12:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/9c5d300ced70bd4ec1691e1cb1fa6b51/AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-circleimageview-2.2.0.aar/e3e314af828af60e24815535bc21cce2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/7ac451c3366065bbad5f99afb1a33a90/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/5834f24b8a3aabec34115022a4ab8b87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/10f3e1b08826df9008633dddd3dcf2eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/608c9c28056047493e1d5131dc7db05c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/390f4596c2d42dd4113ca5bb1ac225c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/7c09971c39188e86c4cbfb07f09c367e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/aaf78a98e2a3c2a2844f3a8e522dfe4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/098d9fa0d7439f3fa723b35c763c97e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/bfb8e46af0953538fe74b105d5ffd197/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d7dcd79a9fadee24848209ee8a1c5c0b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0dac7017ad3c0af2bbfabfa387167be2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/391f6e50c897782e68b0c465b2caddf9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6f01bfa0c7a3e35e397c2aec4062bf32/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/b374ecdb01bec820aa5f7c8e7ee42f0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6ccdb4c58c894b8f0c3234ef1d3c7a24/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/3dc96543b0b1178f3c96824288c5f721/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/79c089d1c852d47a5813168a3c2952c7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/fe69719a5f1f03abeef7f4b48523e19f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1aaccc35b9ae214de0df426571891ec9/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/53a319360765022bb3c7383806274033/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/9c6cb3e1963c56603ea89897198b8e74/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/397ff5d31f8b86570d1bf6cf459c23f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/67a25c47170f16c74280a224869ef66a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/39ca6ee43c20f2b729dd2d29a233b090/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/15275a5e307dee7eaf716533d838f500/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7bcf1d58d790de3b6cdae585c0cd11d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f57083cf37d0d67d046aa237b70d0546/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5beae32591212cda160eb4f83c36763c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/232d84a8e396eca6da667ac06f33bcc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/6a71f31bc363f6568a830b30f1fe8214/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/16b2d3e0b0887f072c20ad634799472d/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/14cdb32cc439f89d6f6da7873f962c06/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/14cdb32cc439f89d6f6da7873f962c06/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/a41867bc46954be1e7ab2172ff3cc7d8/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/a41867bc46954be1e7ab2172ff3cc7d8/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/80bd20c68c2ef7d5956c5e3747ee477c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/80bd20c68c2ef7d5956c5e3747ee477c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/802cd3bdf8e43ae32e4e2e0c9505dc04/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/802cd3bdf8e43ae32e4e2e0c9505dc04/AndroidManifest.xml:10:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/9c5d300ced70bd4ec1691e1cb1fa6b51/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/9c5d300ced70bd4ec1691e1cb1fa6b51/AndroidManifest.xml:7:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-circleimageview-2.2.0.aar/e3e314af828af60e24815535bc21cce2/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-circleimageview-2.2.0.aar/e3e314af828af60e24815535bc21cce2/AndroidManifest.xml:9:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/7ac451c3366065bbad5f99afb1a33a90/AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/7ac451c3366065bbad5f99afb1a33a90/AndroidManifest.xml:12:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/79c089d1c852d47a5813168a3c2952c7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/79c089d1c852d47a5813168a3c2952c7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1aaccc35b9ae214de0df426571891ec9/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1aaccc35b9ae214de0df426571891ec9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/16b2d3e0b0887f072c20ad634799472d/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/16b2d3e0b0887f072c20ad634799472d/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/79c089d1c852d47a5813168a3c2952c7/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:18:9-48
+	android:roundIcon
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:14:9-48
+	android:icon
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:10:9-58
+activity#fr.esiea.mymovie.ui.movieslist.MoviesActivity
+ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:launchMode
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:22:13-43
+	android:name
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:21:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:26:27-74
+activity#fr.esiea.mymovie.ui.moviedetails.DetailsActivity
+ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:29:9-31:90
+	android:parentActivityName
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:31:13-87
+	android:name
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml:30:13-76
+uses-sdk
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.2.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.2.1.aar/d0c699575670058bd6b309010436aba4/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.2.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.2.1.aar/d0c699575670058bd6b309010436aba4/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.2.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.2.1.aar/bfa403abe00c2a38fab2413e4c680fc8/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.2.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.2.1.aar/bfa403abe00c2a38fab2413e4c680fc8/AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/14cdb32cc439f89d6f6da7873f962c06/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/14cdb32cc439f89d6f6da7873f962c06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/32b18b6e9ac2d95a9247d70ba33a16b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/32b18b6e9ac2d95a9247d70ba33a16b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/paging-runtime-2.0.0.aar/70bdafdf8c645655d6112210b5e9af6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/paging-runtime-2.0.0.aar/70bdafdf8c645655d6112210b5e9af6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/ab1d34e39465383066fa22a1a22fe35d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/ab1d34e39465383066fa22a1a22fe35d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/093875dc726a9339291928f1cb43dc45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/093875dc726a9339291928f1cb43dc45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/a41867bc46954be1e7ab2172ff3cc7d8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/a41867bc46954be1e7ab2172ff3cc7d8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/20ab2aba943f1820ec4c67b3d590788f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/20ab2aba943f1820ec4c67b3d590788f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/80bd20c68c2ef7d5956c5e3747ee477c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/80bd20c68c2ef7d5956c5e3747ee477c/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/802cd3bdf8e43ae32e4e2e0c9505dc04/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/802cd3bdf8e43ae32e4e2e0c9505dc04/AndroidManifest.xml:6:5-8:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/9c5d300ced70bd4ec1691e1cb1fa6b51/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/9c5d300ced70bd4ec1691e1cb1fa6b51/AndroidManifest.xml:5:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-circleimageview-2.2.0.aar/e3e314af828af60e24815535bc21cce2/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-circleimageview-2.2.0.aar/e3e314af828af60e24815535bc21cce2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/7ac451c3366065bbad5f99afb1a33a90/AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/com.amulyakhare.textdrawable-1.0.1.aar/7ac451c3366065bbad5f99afb1a33a90/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/5834f24b8a3aabec34115022a4ab8b87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/5834f24b8a3aabec34115022a4ab8b87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/10f3e1b08826df9008633dddd3dcf2eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/10f3e1b08826df9008633dddd3dcf2eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/608c9c28056047493e1d5131dc7db05c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/608c9c28056047493e1d5131dc7db05c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/390f4596c2d42dd4113ca5bb1ac225c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/390f4596c2d42dd4113ca5bb1ac225c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/7c09971c39188e86c4cbfb07f09c367e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/7c09971c39188e86c4cbfb07f09c367e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/aaf78a98e2a3c2a2844f3a8e522dfe4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/aaf78a98e2a3c2a2844f3a8e522dfe4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/098d9fa0d7439f3fa723b35c763c97e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/098d9fa0d7439f3fa723b35c763c97e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/bfb8e46af0953538fe74b105d5ffd197/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/bfb8e46af0953538fe74b105d5ffd197/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d7dcd79a9fadee24848209ee8a1c5c0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d7dcd79a9fadee24848209ee8a1c5c0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0dac7017ad3c0af2bbfabfa387167be2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0dac7017ad3c0af2bbfabfa387167be2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/391f6e50c897782e68b0c465b2caddf9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/391f6e50c897782e68b0c465b2caddf9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6f01bfa0c7a3e35e397c2aec4062bf32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6f01bfa0c7a3e35e397c2aec4062bf32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/b374ecdb01bec820aa5f7c8e7ee42f0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/b374ecdb01bec820aa5f7c8e7ee42f0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6ccdb4c58c894b8f0c3234ef1d3c7a24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6ccdb4c58c894b8f0c3234ef1d3c7a24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/3dc96543b0b1178f3c96824288c5f721/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/3dc96543b0b1178f3c96824288c5f721/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/79c089d1c852d47a5813168a3c2952c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/79c089d1c852d47a5813168a3c2952c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/fe69719a5f1f03abeef7f4b48523e19f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/fe69719a5f1f03abeef7f4b48523e19f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1aaccc35b9ae214de0df426571891ec9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1aaccc35b9ae214de0df426571891ec9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/53a319360765022bb3c7383806274033/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/53a319360765022bb3c7383806274033/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/9c6cb3e1963c56603ea89897198b8e74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/9c6cb3e1963c56603ea89897198b8e74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/397ff5d31f8b86570d1bf6cf459c23f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/397ff5d31f8b86570d1bf6cf459c23f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/67a25c47170f16c74280a224869ef66a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/67a25c47170f16c74280a224869ef66a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/39ca6ee43c20f2b729dd2d29a233b090/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/39ca6ee43c20f2b729dd2d29a233b090/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/15275a5e307dee7eaf716533d838f500/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/15275a5e307dee7eaf716533d838f500/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7bcf1d58d790de3b6cdae585c0cd11d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7bcf1d58d790de3b6cdae585c0cd11d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f57083cf37d0d67d046aa237b70d0546/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f57083cf37d0d67d046aa237b70d0546/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5beae32591212cda160eb4f83c36763c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5beae32591212cda160eb4f83c36763c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/232d84a8e396eca6da667ac06f33bcc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/232d84a8e396eca6da667ac06f33bcc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/6a71f31bc363f6568a830b30f1fe8214/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/6a71f31bc363f6568a830b30f1fe8214/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/16b2d3e0b0887f072c20ad634799472d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/16b2d3e0b0887f072c20ad634799472d/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mouhamedo/git/myMovie/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mouhamedo/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/023df6a2cce785cab2ae5ac4628093be/AndroidManifest.xml:24:13-79

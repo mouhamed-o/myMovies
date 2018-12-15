@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/mouhamedo/git/myMovie/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_details.xml",
+        "source": "/Users/mouhamedo/git/myMovie/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/mouhamedo/git/myMovie/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_cast.xml",
+        "source": "/Users/mouhamedo/git/myMovie/app/src/main/res/layout/item_cast.xml"
+    },
+    {
+        "merged": "/Users/mouhamedo/git/myMovie/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_movie.xml",
+        "source": "/Users/mouhamedo/git/myMovie/app/src/main/res/layout/item_movie.xml"
+    },
+    {
+        "merged": "/Users/mouhamedo/git/myMovie/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_favorite_movies.xml",
+        "source": "/Users/mouhamedo/git/myMovie/app/src/main/res/layout/fragment_favorite_movies.xml"
+    },
+    {
+        "merged": "/Users/mouhamedo/git/myMovie/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_trailer.xml",
+        "source": "/Users/mouhamedo/git/myMovie/app/src/main/res/layout/item_trailer.xml"
+    },
+    {
+        "merged": "/Users/mouhamedo/git/myMovie/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/partial_details_info.xml",
+        "source": "/Users/mouhamedo/git/myMovie/app/src/main/res/layout/partial_details_info.xml"
+    },
+    {
+        "merged": "/Users/mouhamedo/git/myMovie/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_review.xml",
+        "source": "/Users/mouhamedo/git/myMovie/app/src/main/res/layout/item_review.xml"
+    },
+    {
+        "merged": "/Users/mouhamedo/git/myMovie/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_network_state.xml",
+        "source": "/Users/mouhamedo/git/myMovie/app/src/main/res/layout/item_network_state.xml"
+    },
+    {
+        "merged": "/Users/mouhamedo/git/myMovie/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_discover_movies.xml",
+        "source": "/Users/mouhamedo/git/myMovie/app/src/main/res/layout/fragment_discover_movies.xml"
+    }
+]
